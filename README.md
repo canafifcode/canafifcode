@@ -11,7 +11,7 @@
 - 💻 Coding in **C, C++, and Java** (always eager to learn more!)
 - 📚 Actively learning **Data Structures and Algorithms & OOP**  
 - 🕵️‍♂️ Interested in **Hacking** and **Machine Learning**
-- ✨ Proud of my journey so far, especially my [2048 Game](#) and **Next Java Project**  
+- ✨ Especially my [2048 Game](#) and **Next Java Project**  
 - 🎯 My mission: *Learn, explore, and grow from scratch*
 
 ---
