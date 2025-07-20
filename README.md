@@ -51,7 +51,12 @@
 ## 🐍 Contribution Graph
 ![GitHub Contribution Snake](https://github.com/canafifcode/canafifcode/raw/output/github-contribution-grid-snake.svg)
 
----
+## 🗂️ Number of Files Per Language
+
+<!-- Replace the numbers below manually or with a badge generator/action if you need it updated automatically -->
+![Languages Count](https://img.shields.io/badge/Python-10-blue)
+![Languages Count](https://img.shields.io/badge/JavaScript-7-yellow)
+![Languages Count](https://img.shields.io/badge/Markdown-5-lightgrey)
 
 <!--
 **canafifcode/canafifcode** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
