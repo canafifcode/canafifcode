@@ -11,15 +11,15 @@
 - 💻 Coding in **C, C++, and Java** (always eager to learn more!)
 - 📚 Actively learning **Data Structures and Algorithms & OOP**  
 - 🕵️‍♂️ Interested in **Hacking** and **Machine Learning**
-- ✨ Especially my [2048 Game](#) and [Football Manger 2025](#)  
+- ✨ Especially my [2048 Game](https://github.com/canafifcode/2048-game) and [Football Manger 2025](https://github.com/canafifcode/Football_Manager_25)  
 - 🎯 My mission: *Learn, explore, and grow from scratch*
 
 ---
 
 ### 🧑‍💻 Projects
 
-- [2048 Game](#)  
--  [Football Manger 2025](#)
+- [2048 Game](https://github.com/canafifcode/2048-game)  
+- [Football Manger 2025](https://github.com/canafifcode/Football_Manager_25)
 
 *Want to collaborate or give feedback? Feel free to connect!*
 
