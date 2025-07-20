@@ -44,6 +44,13 @@
 > “I want to learn, I want to explore from the scratch.”  
 > — Afif
 
+## 📊 GitHub Stats
+![canafifcode's GitHub Stats](https://github-readme-stats.vercel.app/api?username=canafifcode&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=canafifcode&layout=compact&theme=radical)
+
+## 🐍 Contribution Graph
+![GitHub Contribution Snake](https://github.com/canafifcode/canafifcode/raw/output/github-contribution-grid-snake.svg)
+
 ---
 
 <!--
