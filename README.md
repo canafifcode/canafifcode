@@ -11,7 +11,7 @@
 - 💻 Coding in **C, C++, and Java** (always eager to learn more!)
 - 📚 Actively learning **Data Structures and Algorithms & OOP**  
 - 🕵️‍♂️ Interested in **Hacking** and **Machine Learning**
-- ✨ Especially my [2048 Game](#) and **Next Java Project**  
+- ✨ Especially my [2048 Game](#) and [Football Manger 2025](#)  
 - 🎯 My mission: *Learn, explore, and grow from scratch*
 
 ---
@@ -19,7 +19,7 @@
 ### 🧑‍💻 Projects
 
 - [2048 Game](#)  
-- **Next Project** (coming soon!)
+-  [Football Manger 2025](#)
 
 *Want to collaborate or give feedback? Feel free to connect!*
 
