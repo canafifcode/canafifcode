@@ -38,7 +38,7 @@
 
 - I love music (seriously, it’s always playing in the background!)
 - Cricket is my game—let’s play anytime!
-- **Question of the day:** What do you think came first, the egg or the hen? 🥚🐔 (I’m still trying to figure it out!)
+- **Question of the day:** What do you think came first, the egg or the hen? 🥚🐔 (I think hen!)
 
 ---
 
