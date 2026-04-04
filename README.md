@@ -8,7 +8,7 @@
 ### 🚀 About Me
 
 - 🌱 I'm currently learning and building my foundation in programming  
-- 💻 Coding in **C, C++, Java, and SQL** (Oracle & PostgreSQL) (always eager to learn more!)
+- 💻 Coding in **C, C++, Java, JavaScript and SQL** (Oracle & PostgreSQL) (always eager to learn more!)
 - 📚 Actively learning **Data Structures and Algorithms & OOP**  
 - 🕵️‍♂️ Interested in **Hacking** and **Machine Learning**
 - ✨Did a few Projects
