@@ -21,7 +21,8 @@
 - [2048 Game](https://github.com/canafifcode/2048-game)  
 - [Football Manger 2025](https://github.com/canafifcode/Football_Manager_25)
 - [Messenger](https://github.com/canafifcode/MessengerProject)
-- [Spotify](https://github.com/TafsirAlNafin138/Spotify)  
+- [Spotify](https://github.com/TafsirAlNafin138/Spotify)
+- [Crop Doctor](https://github.com/AfiaJahinAdhitee/crop-disease-detector)
 
 *Want to collaborate or give feedback? Feel free to connect!*
 
