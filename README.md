@@ -23,6 +23,7 @@
 - [Messenger](https://github.com/canafifcode/MessengerProject)
 - [Spotify](https://github.com/TafsirAlNafin138/Spotify)
 - [Leafline](https://github.com/AfiaJahinAdhitee/crop-disease-detector)
+- [MRImagine](https://github.com/Rohan15035/Signal_Project)
 
 *Want to collaborate or give feedback? Feel free to connect!*
 
