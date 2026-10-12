@@ -24,6 +24,7 @@
 - [Spotify](https://github.com/TafsirAlNafin138/Spotify)
 - [Leafline](https://github.com/AfiaJahinAdhitee/crop-disease-detector)
 - [MRImagine](https://github.com/Rohan15035/Signal_Project)
+- [Exam Schedule Voting App](https://github.com/canafifcode/Exam-Scheduler-Voting-App)
 
 *Want to collaborate or give feedback? Feel free to connect!*
 
